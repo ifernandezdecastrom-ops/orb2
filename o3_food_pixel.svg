@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 225.76 136.65"><defs><filter id="food_pixel-drop-shadow-6" x="1415.66" y="407.28" width="115" height="115" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur-4" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".25"/>
+      <feComposite in2="blur-4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs><g transform="translate(-1359.19 -411.53)"><ellipse cx="1466.07" cy="480.18" rx="102.88" ry="52" fill="#fff" isolation="isolate" opacity=".93" stroke="#000" stroke-miterlimit="10" stroke-width=".6"/>
+  <g filter="url(#food_pixel-drop-shadow-6)">
+    <rect x="1424.45" y="415.53" width="83.83" height="83.83" fill="#f0f"/>
+  </g>
+</g></svg>
